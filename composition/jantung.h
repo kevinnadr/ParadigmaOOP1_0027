@@ -5,10 +5,10 @@ using namespace std;
 class jantung {
 public: 
     jantung() {
-        cout << "jantung dihidupkan\n";
+        cout << "jantung dihidupkan\n ";
     }
     ~jantung(){
-        cout << "jantung dimatikan\n";
+        cout << "jantung dimatikan\n ";
     }
 };
 #endif
